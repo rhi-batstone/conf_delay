@@ -1,0 +1,6 @@
+"0","response_count %>% "
+"0","  ggplot() +"
+"0","  geom_line(aes(x = confidence_bin, y = cac, colour = condition))"
+"2","Error in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  : 
+  polygon edge not found
+"

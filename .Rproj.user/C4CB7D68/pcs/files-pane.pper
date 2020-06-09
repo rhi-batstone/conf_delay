@@ -1,0 +1,9 @@
+{
+    "path" : "~/git_repos/meteorite_leaflet/meteorite_data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
